@@ -1,0 +1,10 @@
+C:\Users\iizo2\source\repos\pril3\pril3\bin\Debug\pril3.exe.config
+C:\Users\iizo2\source\repos\pril3\pril3\bin\Debug\pril3.exe
+C:\Users\iizo2\source\repos\pril3\pril3\bin\Debug\pril3.pdb
+C:\Users\iizo2\source\repos\pril3\pril3\obj\Debug\pril3.csprojAssemblyReference.cache
+C:\Users\iizo2\source\repos\pril3\pril3\obj\Debug\pril3.Form1.resources
+C:\Users\iizo2\source\repos\pril3\pril3\obj\Debug\pril3.Properties.Resources.resources
+C:\Users\iizo2\source\repos\pril3\pril3\obj\Debug\pril3.csproj.GenerateResource.cache
+C:\Users\iizo2\source\repos\pril3\pril3\obj\Debug\pril3.csproj.CoreCompileInputs.cache
+C:\Users\iizo2\source\repos\pril3\pril3\obj\Debug\pril3.exe
+C:\Users\iizo2\source\repos\pril3\pril3\obj\Debug\pril3.pdb
